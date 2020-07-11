@@ -6,7 +6,7 @@ I am a self taught front-end web developer from Egypt. I make things for the web
 - 🌱 I’m currently learning: React.js and Next.js
 - 📫 How to reach me: ahmedhosna95@gmail.com, https://ahmedhosna.netlify.app
 
-![counter](https://[en6kb5zhcbsz9zl].m.pipedream.net)
+![counter](https://en6kb5zhcbsz9zl.m.pipedream.net)
 
 [July 2020]
 <!--
