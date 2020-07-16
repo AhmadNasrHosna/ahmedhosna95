@@ -8,7 +8,7 @@ I am a self taught front-end web developer from Egypt. I make things for the web
 
 ![counter](https://en6kb5zhcbsz9zl.m.pipedream.net)
 
-[July 2020]
+[July, 2020]
 <!--
 **ahmedhosna95/ahmedhosna95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
